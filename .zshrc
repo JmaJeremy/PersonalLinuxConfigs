@@ -119,7 +119,7 @@ alias cat="batcat"
 alias cls="clear"
 alias c="clear"
 alias vim="nvim"
-alias key="apt-key adv --keyserver keyserver.ubuntu.com --recv-keys"
+alias key="sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys"
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
